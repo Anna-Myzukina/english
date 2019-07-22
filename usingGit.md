@@ -11,8 +11,7 @@ Almost every single company that you can join uses Git and GitHub.
 
 If you are not familiar with Git and GitHub yet, please complete the following lessons:
 <ol>
-<li><a href="https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-git">
-Introduction to Git</a></li>
+<li><a href="https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-git">Introduction to Git</a></li>
 <li><a href="https://www.theodinproject.com/courses/web-development-101/lessons/git-basics">Git Basics</a><li>
 <li><a href="https://www.theodinproject.com/courses/web-development-101/lessons/practicing-git-basics">
 Project: Practicing Git Basics</a></li>
@@ -34,8 +33,6 @@ You should be using it for every single line of code you write.
 SPOILER ALERT Github Flow is slightly different than Git Flow, even if their names look alike. 
 If you look for additional information, please make sure that you 
 are using the correct name - Github Flow. 
-
-
 
 Feature Branches
 Before you start working on a new feature, you should create a new “feature” branch. 
